@@ -16,8 +16,9 @@
 |Project|Description|
 |---|---|
 |[Efficient Indoor Scene Segmentation Network(EISSegNet)](https://github.com/lizhunan/dissertation-msc)|Semantic Segmentation Model Based on RGB-D Images|
-|[Fridge Launcher](https://github.com/lizhunan/fridge_launcher)|Anti-Malware Launcher Based on Android|
 |[Face Swap](https://github.com/lizhunan/face-swap)|This is an OpencV-based face swapping program|
+|[Panoramic Stitching](https://github.com/lizhunan/panoramic-stitching)|Panoramic stitching project based on opencv.|
+|[Fridge Launcher](https://github.com/lizhunan/fridge_launcher)|Anti-Malware Launcher Based on Android|
 |...|This is a new repository, the old project is hidden, and the new project is moving.|
 
 <h2>My Skill Set</h2>
