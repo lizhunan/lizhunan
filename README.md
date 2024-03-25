@@ -20,6 +20,7 @@
 |[Panoramic Stitching](https://github.com/lizhunan/panoramic-stitching)|Panoramic stitching project based on opencv.|
 |[Fatigue Detector](https://github.com/lizhunan/fatigue-detector)|This is an OpenCV-based fatigue detection program. |
 |[Fridge Launcher](https://github.com/lizhunan/fridge_launcher)|Anti-Malware Launcher Based on Android|
+|[Object Tracking(To Be Continued)](https://github.com/lizhunan/object-tracking)|Object Tracking Based on OpenCV|
 |...|This is a new repository, the old project is hidden, and the new project is moving.|
 
 <h2>My Skill Set</h2>
